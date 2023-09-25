@@ -14,3 +14,8 @@ repositories:
     type: git
     url: https://github.com/jpsm-at-deec/backward_ros.git
     version: foxy-devel
+
+  diagnostic_updater:
+    type: git
+    url: https://github.com/ros/diagnostics.git
+    version: ros2
