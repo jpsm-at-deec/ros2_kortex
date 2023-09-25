@@ -19,3 +19,7 @@ repositories:
     type: git
     url: https://github.com/ros/diagnostics.git
     version: ros2
+
+  realtime_tools:
+    type: git
+    url: https://github.com/ros-controls/realtime_tools.git
