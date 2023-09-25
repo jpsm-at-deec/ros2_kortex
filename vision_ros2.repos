@@ -1,0 +1,6 @@
+repositories:
+
+  ros2_kortex_vision:
+    type: git
+    url: https://github.com/jpsm-at-deec/ros2_kortex_vision.git
+
