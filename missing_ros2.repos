@@ -12,5 +12,5 @@ repositories:
   
   backward_ros:
     type: git
-    url: https://github.com/pal-robotics/backward_ros.git
+    url: https://github.com/jpsm-at-deec/backward_ros.git
     branch: foxy-devel
