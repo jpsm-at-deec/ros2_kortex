@@ -13,4 +13,4 @@ repositories:
   backward_ros:
     type: git
     url: https://github.com/jpsm-at-deec/backward_ros.git
-    branch: foxy-devel
+    version: foxy-devel
