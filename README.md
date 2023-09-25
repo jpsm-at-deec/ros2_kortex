@@ -1,3 +1,6 @@
+- ros2 rolling from source (notes here https://github.com/jpsm-at-deec/ros2)
+- Ubuntu 22.04.3
+
 WIP for briging ros_kortex_vision[1] to ROS2[2]
 
 [1] https://github.com/Kinovarobotics/ros_kortex_vision
